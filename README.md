@@ -1,6 +1,6 @@
-- Hi, I’m @Motheo-Makgala a web'development intern at Interncareer. 
-- I’m interested in web development, particularly front end development. I’m currently learning front-end developmet and back-end development. 
-- I’m looking to collaborate on building comprehensve, responsive and user freindly websites.
+- Motheo-Makgala web development enthusiasts.  
+- I’m interested in web development, particularly front end development.Efficient in front-end developmet, UI and UX, web content writing and responsive web design. 
+- I’m looking to collaborate on building comprehensve, responsive and user freindly websites using vast applications such as, Wix, Figma, word press and others. 
 - How to reach me? email me: botshelomakgala32@gmail.com
 <!---
 Motheo-Makgala/Motheo-Makgala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
